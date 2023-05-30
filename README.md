@@ -52,3 +52,4 @@ You can learn more at [How to display a map in Angular using MapLibre GL JS](htt
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p># map
+# map

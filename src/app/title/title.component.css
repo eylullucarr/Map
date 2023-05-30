@@ -1,0 +1,10 @@
+.heading {
+        text-align: center;
+        padding: 15px;
+}
+
+.heading > h2 {
+    margin:0;
+    padding: 0;
+    
+}
